@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 3109164645442394827}
   - component: {fileID: 7191563420415360764}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: GameObject 12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -44,7 +44,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0fa534983bed543169ce438dfad802a6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  data: {fileID: 11400000, guid: 2b3273837aa0b40c39ea29d897566236, type: 2}
+  data: {fileID: 11400000, guid: cf8a6e1abd5ba486c9f3dfe5b46b8f34, type: 2}
   card_name: 
   description: 
   health: 0
