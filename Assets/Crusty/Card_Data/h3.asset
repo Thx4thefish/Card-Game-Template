@@ -13,8 +13,6 @@ MonoBehaviour:
   m_Name: h3
   m_EditorClassIdentifier: 
   card_name: 
-  description: 
-  health: 0
-  cost: 0
-  damage: 0
-  sprite: {fileID: 0}
+  sprite: {fileID: -3823887115464728477, guid: 6cfc8fb8b643143488e2b20f0976a6ad, type: 3}
+  Suit: Hearts
+  Rank: 3
